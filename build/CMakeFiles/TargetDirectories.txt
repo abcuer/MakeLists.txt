@@ -1,0 +1,6 @@
+/home/zoey/Class_2/build/CMakeFiles/cmake_learn_1.dir
+/home/zoey/Class_2/build/CMakeFiles/cmake_learn_2.dir
+/home/zoey/Class_2/build/CMakeFiles/TOOLS_STATIC.dir
+/home/zoey/Class_2/build/CMakeFiles/cmake_learn_3.dir
+/home/zoey/Class_2/build/CMakeFiles/edit_cache.dir
+/home/zoey/Class_2/build/CMakeFiles/rebuild_cache.dir
